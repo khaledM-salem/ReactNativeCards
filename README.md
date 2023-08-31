@@ -21,11 +21,6 @@ Explore and discover movies cards using this React Native app powered by the Pub
 - FlatList and ScrollView: Display movie cards and dropdown options.
 - Styling with StyleSheet: Create responsive and visually appealing UI.
 
-📱 **Screenshots**
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 📦 **Getting Started**
 
 1. Clone the repository: `git clone https://github.com/your-username/movie-explorer-app.git`
